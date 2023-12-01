@@ -6,7 +6,7 @@ function main() {
   lines.forEach((line) => {
     const newLine = stringNumReplacer(line);
     const sum = findLineSum(newLine);
-    console.log(line, " -> ", newLine, " -> ", sum)
+    // console.log(line, " -> ", newLine, " -> ", sum)
     answer += sum;
   });
 
