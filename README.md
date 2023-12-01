@@ -41,18 +41,11 @@ sdk install kscript
 - JRE `20.0.2+9`
 
 ### Rust 
-The Rust files are run via [rust-script](https://rust-script.org/)
+First [install Rust](https://www.rust-lang.org/tools/install) (via appropriate package manager for your OS)
 
-First [install Rust](https://www.rust-lang.org/tools/install) (via appropriate package manager for your OS),
-then install the rust-script crate. 
-
-```shell
-cargo install rust-script
-```
 
 #### Software Versions 
 - Rust `1.74.0`
-- rust-script `0.34.0`
 
 ### TypeScript
 The TypeScript files are run via [deno](https://deno.land/)
