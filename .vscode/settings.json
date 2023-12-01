@@ -1,0 +1,12 @@
+{
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "code-runner.executorMap.typescript": "deno run -A",
+    "code-runner.executorMap.rust": "rust-script",
+    "code-runner.executorMapByFileExtension": {
+        ".kts": "kscript"
+    }
+}
