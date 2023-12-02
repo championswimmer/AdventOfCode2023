@@ -52,7 +52,7 @@ First [install Rust](https://www.rust-lang.org/tools/install) (via appropriate p
 Then install rust-script via cargo
 
 ```shell
-cargo install --version 0.19.0 rust-script
+cargo install rust-script
 ```
 
 #### Software Versions
