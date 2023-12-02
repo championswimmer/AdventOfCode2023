@@ -5,7 +5,7 @@
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "code-runner.executorMap.typescript": "deno run -A",
-    "code-runner.executorMap.rust": "cargo run --package advent_of_code_2023",
+    "code-runner.executorMap.rust": "rust-script --debug",
     "code-runner.executorMapByFileExtension": {
         ".kts": "kscript"
     }

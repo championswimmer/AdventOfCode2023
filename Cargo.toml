@@ -9,11 +9,10 @@ commons = { path = "commons"}
 name ="day01"
 path = "./day-01/solution.rs"
 
-# [[bin]]
-# name ="day02"
-# path = "./day-02/solution.rs"
-#
-#
+[[bin]]
+name ="day02"
+path = "./day-02/solution.rs"
+
 #[[bin]]
 #name ="day03"
 #path = "./day-03/solution.rs"

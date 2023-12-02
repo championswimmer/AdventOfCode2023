@@ -14,7 +14,7 @@ solve() {
       EXT=".kts"
       ;;
     "rs" | "rust")
-      RUN_CMD="cargo run"
+      RUN_CMD="rust-script --debug"
       EXT=".rs"
       ;;
     "ts" | "typescript")
